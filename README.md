@@ -1,33 +1,33 @@
 <h1 align="center">Hi, I'm Mohammed Shahin P 👋</h1>
 
-<h3 align="center">Aspiring Data Analyst | Machine Learning Enthusiast</h3>
+<h3 align="center">Data Analyst | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  Passionate about exploring data, building analytical solutions,
-  and transforming raw data into meaningful insights.
+  Passionate about Data Analytics, Business Intelligence, and Machine Learning. Interested in transforming raw data into meaningful insights and building data-driven solutions.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science and Engineering graduate (2026).
-- 📊 Interested in Data Analytics, Data Visualization and Machine Learning.
-- 💼 Completed Data Analyst internship at Primeor Solutions.
-- 📚 Currently pursuing Professional Data Analytics training at IPCS Global.
-- 🌱 Continuously improving my skills in Python, SQL, Excel and Power BI.
-- 🤖 Exploring Machine Learning algorithms and data preprocessing techniques.
+- 🎓 B.Tech in Computer Science and Engineering (2022–2026).
+- 📊 Interested in Data Analytics, Data Visualization, and Business Intelligence.
+- 💼 Completed a Data Analyst Internship at Primeor Solutions.
+- 📚 Currently pursuing Professional Data Analytics Training at IPCS Global.
+- 🐍 Working with Python, SQL, Excel, and Power BI.
+- 🤖 Exploring Machine Learning algorithms and Ensemble Learning techniques.
+- 🔍 Interested in data cleaning, preprocessing, exploratory data analysis, and predictive modelling.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & Query Languages
+### 💻 Programming & Query Languages
 - Python
 - SQL
 - MySQL
 
-### Data Analytics & Visualization
+### 📊 Data Analytics & Visualization
 - Microsoft Excel
 - Power BI
 - Pandas
@@ -35,46 +35,42 @@
 - Matplotlib
 - Seaborn
 
-## Machine Learning
-
+### 🤖 Machine Learning Algorithms
 - Linear Regression
-
 - Logistic Regression
-
 - Decision Tree
-
 - K-Nearest Neighbors (KNN)
-
 - Support Vector Machine (SVM)
-
 - Naive Bayes
 
-### Ensemble Learning
-
+### 🚀 Ensemble Learning
 - Bagging
-
 - Boosting
-
 - Random Forest
-
 - AdaBoost
-
 - Gradient Boosting
-
 - XGBoost
 
-### Data Preprocessing
+### 🧹 Data Preprocessing & Analysis
 - Data Cleaning
 - Missing Value Handling
+- Duplicate Removal
 - Label Encoding
 - Feature Scaling
 - Data Transformation
 - Exploratory Data Analysis (EDA)
 
-### Tools
+### 📈 Model Evaluation
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- R² Score
+
+### ⚙️ Tools & Platforms
 - Jupyter Notebook
 - Visual Studio Code
-- Git & GitHub
+- Git
+- GitHub
 
 ---
 
@@ -82,57 +78,58 @@
 
 ### FMCG Supply Chain Optimization
 
-- Analyzed demand and supply mismatches across warehouses.
-- Performed data cleaning, preprocessing and exploratory data analysis.
-- Applied Machine Learning regression algorithms.
-- Evaluated models using MAE, MSE, RMSE and R².
-- Objective: Estimate optimum product shipment weight for different warehouses.
+**Machine Learning-Based Warehouse Product Weight Prediction**
+
+- Analyzed FMCG supply chain data to understand warehouse-level operational patterns.
+- Performed data cleaning, preprocessing, and exploratory data analysis.
+- Investigated relationships between warehouse characteristics, operational conditions, and product shipment weight.
+- Implemented and compared multiple regression algorithms.
+- Evaluated model performance using MAE, MSE, RMSE, and R² Score.
+- Identified XGBoost as the best-performing model among the evaluated algorithms.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn.
+
+🔗 **[View Project Repository](https://github.com/Shahin1060/FMCG-Supply-Chain-Optimization)**
 
 ---
 
 ## 💼 Internship Experience
 
-**Data Analyst Intern – Primeor Solutions**
+### Data Analyst Intern – Primeor Solutions
 
-- Cleaned and analyzed e-commerce datasets using Excel.
-- Used SQL queries to extract business insights.
+- Cleaned and standardized e-commerce datasets using Microsoft Excel.
+- Handled missing values, duplicate records, and inconsistent data formats.
+- Used SQL queries to analyze business and sales performance.
 - Developed interactive Power BI dashboards.
-- Analyzed sales, profit, customer and regional performance.
+- Analyzed sales, profit, customer, product, and regional performance.
+- Presented business insights through data visualization.
 
 ---
 
 ## 🎓 Education & Training
 
-- **B.Tech – Computer Science and Engineering**
-  College of Engineering Cherthala | 2022–2026
+**B.Tech – Computer Science and Engineering**  
+College of Engineering Cherthala | 2022–2026
 
-- **Professional Data Analytics Training**
-  IPCS Global, Perinthalmanna | 2026–Present
+**Professional Data Analytics Training**  
+IPCS Global, Perinthalmanna | 2026–Present
 
 ---
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [Mohammed Shahin P](https://www.linkedin.com/in/mohammad-shahin-p-a93b37254/)
-- GitHub: [Shahin1060](https://github.com/Shahin1060)
+<p>
+  <a href="https://www.linkedin.com/in/mohammad-shahin-p-a93b37254/">
+    LinkedIn – Mohammed Shahin P
+  </a>
+  <br>
+  <a href="https://github.com/Shahin1060">
+    GitHub – Shahin1060
+  </a>
+</p>
 
 ---
 
 <p align="center">
   <i>Learning continuously, analyzing data, and building meaningful solutions.</i>
 </p>
-
-<!--
-**Shahin1060/Shahin1060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
